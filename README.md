@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/4ylsgw2itf2353gs?svg=true)](https://ci.appveyor.com/project/Girych/patterns-2)
